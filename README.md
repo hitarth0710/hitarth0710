@@ -8,20 +8,9 @@
   <a href="https://github.com/hitarth0710?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hitarth0710&style=flat-square&color=1d4ed8" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat%2C%20India-0f172a?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20To-Full-stack%20and%20AI%20roles-0ea5e9?style=flat-square" alt="Open to roles" />
-</p>
-
 <p><strong>Building thoughtful software across full-stack engineering, backend systems, and applied AI.</strong></p>
 
-<p>
-  <img src="https://img.shields.io/badge/Full--stack%20Apps-0f172a?style=flat-square" alt="Full-stack apps" />
-  <img src="https://img.shields.io/badge/Backend%20Systems-1d4ed8?style=flat-square" alt="Backend systems" />
-  <img src="https://img.shields.io/badge/Applied%20AI-0ea5e9?style=flat-square" alt="Applied AI" />
-  <img src="https://img.shields.io/badge/Product%20Thinking-0f172a?style=flat-square" alt="Product thinking" />
-</p>
+<p><code>Full-stack apps</code> <code>Backend systems</code> <code>Applied AI</code> <code>Product thinking</code></p>
 
 </div>
 
